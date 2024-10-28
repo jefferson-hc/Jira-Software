@@ -4,6 +4,7 @@ otros_cursos_max = 7
 otros_cursos_promedio = 4
 dalto_curso = 1.5
 dalto_curso1 = 1.5
+dalto_curso1 = 5
 
 #Duracion de crudos
 crudo_promedio = 5
